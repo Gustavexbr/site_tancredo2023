@@ -23,3 +23,18 @@ li{
     margin: 0;
     padding: 0;
 }
+.kebab-imagem{
+    width: 25%;
+}
+.kebab{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color: white;
+}
+.kebab{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
